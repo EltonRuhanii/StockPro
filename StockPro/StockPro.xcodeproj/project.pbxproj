@@ -56,7 +56,6 @@
 				7BD19FE42611455CC6764784 /* Pods-StockPro.debug.xcconfig */,
 				62A5D456B1340331D6894BAB /* Pods-StockPro.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
