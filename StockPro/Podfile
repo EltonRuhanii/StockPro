@@ -6,5 +6,8 @@ target 'StockPro' do
   use_frameworks!
 
   # Pods for StockPro
+  pod 'FirebaseAnalytics'
+  pod 'FirebaseAuth'
+  pod 'FirebaseFirestore'
 
 end
